@@ -1,7 +1,13 @@
-header {
+.header {
     background-color: #16537e;
         padding: 20px;
         font-size: 24px;
+}
+
+.tagline {
+    background-color: #3081ba;
+        padding: 10px;
+        font-size: 20px;
 }
 
 body {
