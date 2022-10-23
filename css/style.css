@@ -1,8 +1,8 @@
 .header {
     background-color: #16537e;
         color: #ffffff;
-        padding: 30px;
-        font-size: 48px;
+        padding: 20px;
+        font-size: 56px;
 }
 
 .tagline {
@@ -21,9 +21,7 @@
     h1 { font-size: 18px;  }
     h2 { font-size: 16px;  }
     h3 { font-size: 14px;  }
-    
-    .bold-text {font-weight: bold; }
-
+   
 /* Video padding*/
 
 .video-padding {
