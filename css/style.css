@@ -2,7 +2,7 @@
     background-color: #16537e;
         color: #ffffff;
         padding: 30px;
-        font-size: 24px;
+        font-size: 48px;
 }
 
 .tagline {
@@ -12,7 +12,7 @@
         font-size: 20px;
 }
 
-.body {
+body {
     font-family: Arial, Helvetica, sans-serif;
     font-size: 12px;
     background-color: #f5deb3;
