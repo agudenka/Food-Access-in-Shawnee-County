@@ -10,3 +10,12 @@ body {
     h3 { font-size: 14px;  }
     
     .bold-text {font-weight: bold; }
+
+/* Video padding*/
+
+#video-padding {
+    padding-top: 10px;
+    padding-left: 40px;
+    padding-bottom: 10px;
+}
+/* End video padding*/
