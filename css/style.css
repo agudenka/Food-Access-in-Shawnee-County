@@ -13,7 +13,7 @@ body {
 
 /* Video padding*/
 
-#video-padding {
+.video-padding {
     padding-top: 10px;
     padding-left: 40px;
     padding-bottom: 10px;
