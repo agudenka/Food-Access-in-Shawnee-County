@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head> 
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no>
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Food Access in Shawnee County, Kansas</title>
+    <link rel="stylesheet" type="text/css" href="css/style.css">                                                      
+  </head>
+    <div class="header">
+                     <p><strong>Food Access in Shawnee County</strong></p>
+                     </div>
+    <div class="tagline">
+        <p><strong><em>Food Connects Families and Communities</em></strong></p>
+        <ul>
+                <li><a href="What is Food Access.html">What is Food Access?</a></li>
+                <li><a href="food accessibility in shawnee county.html">Food Accessibility in Shawnee County</a></li>
+                <li><a href="Community Resources.html">Community Resources</a></li>
+                                                      <li><a href="Glossary.html">Glossary of Terms</a></li>                                    
+                <li><a href="index.html">Home Page</a></li> 
+        </ul>
+    </div>
+    <div class="body">                                                        
+    <body>
+    <h1>Works Cited</h1>
+    <p>The following sources were used in the creation of this website:
+      <ul>
+        <li>Brones, A. (2018, May 15). Food apartheid: the root of the problem with America's groceries. The 
+     Guardian. Retrieved September 18, 2022, from https://www.theguardian.com/society/2018/may/15/ 
+     food-apartheid-food-deserts-racism-inequality-america-karen-washington-interview</li>
+    </p>
+    </body>
