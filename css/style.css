@@ -1,16 +1,31 @@
+
+    
 .header {
     font-family: Arial, Helvetica, sans-serif;
     background-color: #16537e;
         color: #ffffff;
         padding-top: 5px;
         padding-right: 5px;
-        padding-left: 5px;
+        padding-left: 10px;
         padding-bottom: 5px;
         font-size: 40px;
 }
-
-.tagline {
+.mission_statement {
     font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    overflow: auto;
+    background-color: #143852;
+        color: #ffffff;
+        padding: 5px;
+        padding-left: 10px;
+        font-size: 12px;
+    h1 {font-size: 28px;}
+}
+
+.nav_menu {
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    overflow: auto;
     background-color: #3081ba;
         color: #ffffff;
         padding: 3px;
@@ -19,15 +34,50 @@
     
 }
 
+.nav_menu ::after {
+    content: "";
+    width: 1em;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    right: 0;
+    background: linear-gradient(to right, hsla(var(--color-bg-dark-h), var(--color-bg-dark-s), var(--color-bg-dark-l), 0), hsla(var(--color-bg-dark-h), var(--color-bg-dark-s), var(--color-bg-dark-l), 1));
+    pointer-events: none;
+  }
+
+ .nav__item {
+    display: inline-block;
+    flex-shrink: 0;}
+
+.nav__link {
+    display: block;
+    font-size: var(--text-sm);
+    padding: 1em;
+    text-decoration: none;
+    color: hsla(var(--color-contrast-high-h), var(--color-contrast-high-s), var(--color-contrast-high-l), 0.65);
+    border: 2px solid transparent;
+    border-right-width: 0;
+    border-left-width: 0;
+    transition: 0.2s;
+  }
+
+.nav__link :hover {
+    color: var(--color-contrast-high);
+
+
+
+
 .body {
     font-family: Arial, Helvetica, sans-serif;
     font-size: 12px;
     background-color: #f5deb3;
+    padding-left: 20px;
     }
     
     h1 { font-size: 18px;  }
     h2 { font-size: 16px;  }
     h3 { font-size: 14px;  }
+
    
 /* Video padding*/
 
@@ -38,3 +88,5 @@
     padding-bottom: 10px;
 }
 /* End video padding*/
+
+
