@@ -1,12 +1,21 @@
+/*Font*/
 h1 { font-size: 18px;
 color: #143852;  }
-h2 { font-size: 16px;  }
-h3 { font-size: 14px;  }
+h2 { font-size: 16px;
+    color: #143852; 
+    padding-left: 10px;  }
+h3 { font-size: 14px;
+    padding-left: 10px;   }
 p {font-size: 14px;
 padding-left: 20px;}
+em {
+    padding-left: 20px;}
+li{
+    line-height: 30px;
+    font-size: 14px}
 
 .header {
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family:Georgia, 'Times New Roman', Times, serif;
     background-color: #143852;
         color: #ffffff;
         padding-top: 5px;
